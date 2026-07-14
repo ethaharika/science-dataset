@@ -343,3 +343,5 @@ wristwatch
 yoga
 zebra
 zigzag
+animal cell
+plant cell
